@@ -84,20 +84,7 @@ dist/
 
 ## 💾 Download Ready Installer
 
-### 🔹 Option 1: Download `.deb` (Recommended)
-
-Click the link below (once uploaded to Releases):
-
-➡️ [**Download .deb file**](https://github.com/AbhiramN-Mern/TO-DO-electron/releases/latest)
-
-Then install it using:
-
-```bash
-sudo dpkg -i to-do-electron_1.0.0_amd64.deb
-sudo apt install -f
-```
-
-### 🔹 Option 2: Run Portable AppImage
+Run Portable AppImage
 
 ```bash
 chmod +x "People Task List-1.0.0.AppImage"
