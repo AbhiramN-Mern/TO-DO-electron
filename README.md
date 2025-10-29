@@ -1,11 +1,11 @@
 
-# 🧠 People Task List (Electron + JavaScript)
+#  People Task List (Electron + JavaScript)
 
 A modern, minimalistic **To-Do / People Checklist app** built using **HTML, CSS, JavaScript, and Electron** — designed to help you track people or daily tasks efficiently on Ubuntu or any Linux desktop.
 
 ---
 
-## ✨ Features
+##  Features
 
 ✅ Add people or tasks easily  
 ✅ Mark as completed (auto moves to “Done” list)  
@@ -16,7 +16,7 @@ A modern, minimalistic **To-Do / People Checklist app** built using **HTML, CSS,
 
 ---
 
-## 🧩 Project Structure
+##  Project Structure
 
 ```
 
@@ -33,28 +33,28 @@ TO-DO-electron/
 
 ---
 
-## ⚙️ Development Setup
+##  Development Setup
 
-### 1️⃣ Install Dependencies
+### Install Dependencies
 ```bash
 sudo apt update
 sudo apt install nodejs npm -y
 ````
 
-### 2️⃣ Clone the Repository
+###  Clone the Repository
 
 ```bash
 git clone https://github.com/AbhiramN-Mern/TO-DO-electron.git
 cd TO-DO-electron
 ```
 
-### 3️⃣ Install Node Modules
+###  Install Node Modules
 
 ```bash
 npm install
 ```
 
-### 4️⃣ Run in Development Mode
+###  Run in Development Mode
 
 ```bash
 npm start
@@ -64,7 +64,7 @@ This opens your Electron app in a window.
 
 ---
 
-## 📦 Build for Ubuntu
+## Build for Ubuntu
 
 To create `.deb` and `.AppImage` installers:
 
@@ -82,7 +82,7 @@ dist/
 
 ---
 
-## 💾 Download Ready Installer
+##  Download Ready Installer
 
 Run Portable AppImage
 
@@ -92,13 +92,13 @@ chmod +x "People Task List-1.0.0.AppImage"
 ```
 
 
-## 🪄 License
+##  License
 
 This project is open-source under the **MIT License**.
 Feel free to modify, distribute, or enhance it.
 
 ---
 
-## 🖤 Support
+##  Support
 
-If you like this project, don’t forget to ⭐ the repo on GitHub and share your feedback!
+If you like this project, don’t forget to  the repo on GitHub and share your feedback!
